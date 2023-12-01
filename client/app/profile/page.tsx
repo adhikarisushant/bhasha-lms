@@ -18,7 +18,7 @@ const page: FC<Props> = (props) => {
         <div>
             <Protected>
                 <Heading
-                    title={`${user?.name} profile`}
+                    title={`${user?.name} profile BhasaLMS`}
                     description="Bhasa is a platform for language students to learn and get help from teachers"
                     keywords="IELTS, PTE, SAT, NAT"
                 />
